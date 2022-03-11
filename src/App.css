@@ -3,6 +3,12 @@ html.dark {
 }
 
 
+.link-container{
+display: flex;
+justify-content: space-around;
+}
+
+
 a:link, a:visited {
   color: white;
   text-align: center;
