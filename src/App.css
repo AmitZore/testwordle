@@ -5,7 +5,7 @@ html.dark {
 
 .link-container{
 display: flex;
-justify-content: space-around;
+width: 250px;
 }
 
 
@@ -16,7 +16,6 @@ border-radius: 12px;
   background-color : #273773 ;
    text-align: center;
   text-decoration: none;
-  display: inline-block;
   font-size: 16px;
   margin: 4px 2px;
   padding: 10px;
