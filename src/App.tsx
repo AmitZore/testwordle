@@ -257,7 +257,7 @@ function App() {
           />
         </div>
         
-        <a href = "https://edindia.org/"> About Us </a>
+        <a href = "https://edindia.org/" style  = "color : white"> About Us </a>
         
         <Keyboard
           onChar={onChar}
