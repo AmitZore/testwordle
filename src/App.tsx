@@ -256,6 +256,9 @@ function App() {
             currentRowClassName={currentRowClass}
           />
         </div>
+        
+        <a href = "https://edindia.org/"> About Us </a>
+        
         <Keyboard
           onChar={onChar}
           onDelete={onDelete}
