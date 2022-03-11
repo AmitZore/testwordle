@@ -3,10 +3,6 @@ html.dark {
 }
 
 
-div.link-container{
-display: flex;
-width: 250px;
-}
 
 
 a:link, a:visited {
@@ -19,4 +15,9 @@ border-radius: 12px;
   font-size: 16px;
   margin: 4px 2px;
   padding: 10px;
+  
+  display: flex;
+width: 250px;
+  
+  
 }
