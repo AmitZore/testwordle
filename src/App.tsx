@@ -256,9 +256,9 @@ function App() {
             currentRowClassName={currentRowClass}
           />
         </div>
-        
+        <div class="link-container">
        <a href="https://edindia.org">About Us</a>
-        
+        </div>
         <Keyboard
           onChar={onChar}
           onDelete={onDelete}
