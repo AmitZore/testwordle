@@ -82,6 +82,15 @@ function App() {
     }
     return loaded.guesses
   })
+  
+  
+  const EdClick = () => {
+    window.open("https://edindia.org/");
+  };
+  
+  
+  
+  
 
   const [stats, setStats] = useState(() => loadStats())
 
@@ -257,7 +266,8 @@ function App() {
           />
         </div>
         <div className="link-container">
-       <a href="https://edindia.org" style={{display: "table-cell"}} target="_blank">About Us</a>
+       
+      <button onClick={EdClick}>About US</button>
         </div>
         <Keyboard
           onChar={onChar}
