@@ -257,7 +257,7 @@ function App() {
           />
         </div>
         <div className="link-container">
-       <a href="https://edindia.org" target="_blank">About Us</a>
+       <a href="https://edindia.org" style={{display: "table-cell"}} target="_blank">About Us</a>
         </div>
         <Keyboard
           onChar={onChar}
