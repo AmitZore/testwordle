@@ -3,7 +3,7 @@ html.dark {
 }
 
 
-a:link, a:visited {
+.newclick {
   color: white;
   text-align: center;
   background-color : #273773 ;
