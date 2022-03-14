@@ -13,8 +13,9 @@ border-radius: 12px;
   font-size: 16px;
   margin: 4px 2px;
   padding: 4px 2px;
-  margin-left : 550px;
+}
 
-  
-  
+.link-container{
+display: flex;
+justify-content: space-around;
 }
