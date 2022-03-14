@@ -267,7 +267,7 @@ function App() {
         </div>
         <div className="link-container">
        
-      <button onClick={EdClick}>About US</button>
+      <button ClassName="newclick" onClick={EdClick}>About US</button>
         </div>
         <Keyboard
           onChar={onChar}
