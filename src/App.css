@@ -6,6 +6,7 @@ html.dark {
 .newclick {
   color: white;
   text-align: center;
+  border-radius : 7px;
   background-color : #273773 ;
    text-align: center;
   text-decoration: none;
